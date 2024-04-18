@@ -1,6 +1,5 @@
 {
-  "name": "quickjs-emscripten-sync",
-  "author": "rot1024",
+  "name": "@flawiddsouza/quickjs-emscripten-sync",
   "version": "1.5.2",
   "license": "MIT",
   "source": "./src/index.ts",
